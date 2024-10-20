@@ -1,0 +1,70 @@
+.thankyou-container {
+  background-color: #f0ffe5;
+}
+
+.your-cart {
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 25.5px;
+  text-align: center;
+  color: #0f4811;
+}
+.cross {
+  margin-top: 20px;
+  text-align: right;
+  padding-right: 5px;
+  padding-top: 5px;
+}
+.line {
+  width: 389px;
+  height: 0px;
+  top: 87px;
+  left: 32px;
+  gap: 0px;
+  border: 0.8px 0px 0px 0px;
+  opacity: 0px;
+}
+.order-container {
+  text-align: center;
+}
+.order-heading {
+  font-size: 24px;
+  font-weight: 650;
+  line-height: 36px;
+
+  color: #165315;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.pot-image {
+  width: 97px;
+  height: 98px;
+  top: 271px;
+  left: 178px;
+  gap: 0px;
+  opacity: 0px;
+}
+.thankyou-msg {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+}
+.continue-button {
+  width: 307px;
+  height: 45px;
+  top: 514px;
+  left: 73px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #165315;
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  margin-bottom: 50px;
+}
